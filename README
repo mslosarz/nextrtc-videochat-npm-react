@@ -1,0 +1,7 @@
+This example is available at page
+http://nextrtc.org/examples
+
+Clone project and then
+- enter to directory with project
+- run: mvn clean install && java -jar target/videochat.war
+- enter localhost:8080 in your favourite browser :)
